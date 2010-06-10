@@ -1,0 +1,3 @@
+#ssponsor, .footer_ad, .banner_ad, .social_ad, .ad_capsule, .sidebar_ads, .adcolumn, .admarket_ad, .sidebar_item.sponsor, .emu_sponsor, .home_sponsor, .UIHomeBox_Sponsored, #pagelet_adbox, #pagelet_netego, #ego {
+	display: none !important;
+}
