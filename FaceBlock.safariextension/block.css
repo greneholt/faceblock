@@ -12,6 +12,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 */
 
-#ssponsor, .footer_ad, .banner_ad, .social_ad, .ad_capsule, .sidebar_ads, .adcolumn, .admarket_ad, .sidebar_item.sponsor, .emu_sponsor, .home_sponsor, .UIHomeBox_Sponsored, #pagelet_adbox, #pagelet_netego, #ego, .UIStandardFrame_SidebarAds, .UIWashFrame_SidebarAds {
+#ssponsor, .footer_ad, .banner_ad, .social_ad, .ad_capsule, .sidebar_ads, .adcolumn, .admarket_ad, .sidebar_item.sponsor, .emu_sponsor, .home_sponsor, .UIHomeBox_Sponsored, #pagelet_adbox, #pagelet_netego, #ego, .UIStandardFrame_SidebarAds, .UIWashFrame_SidebarAds, #pagelet_netego_ads {
 	display: none !important;
 }
